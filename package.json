@@ -16,6 +16,6 @@
   },
   "scripts": {
     "dev": "gatsby develop",
-    "build": "gatsby build"
+    "build": "exit 1 && gatsby build"
   }
 }
